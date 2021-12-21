@@ -28,7 +28,7 @@ linters:
     - goimports
     - predeclared
     - gosec
-    - golint
+    - revive
     - nolintlint
     - unconvert
     - errcheck
